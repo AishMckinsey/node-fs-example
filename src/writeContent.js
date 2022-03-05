@@ -1,4 +1,4 @@
-const {promisifyWriteData}  = require('../source/util/utilFiles');
+const {promisifyWriteData}  = require('../src/util/utilFiles');
 
 const writeToFile = async (filePath) => {
 

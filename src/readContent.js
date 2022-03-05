@@ -1,4 +1,4 @@
-const {promisfyReadDir, promisfyReadFile} = require('../source/util/utilFiles');
+const {promisfyReadDir, promisfyReadFile} = require('../src/util/utilFiles');
 const path = require('path');
 
 
